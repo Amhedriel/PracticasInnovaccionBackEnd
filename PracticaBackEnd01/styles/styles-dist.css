@@ -1,0 +1,35 @@
+body{
+  box-sizing: border-box;
+  background-color: #554488;
+}
+
+button{
+  cursor: pointer;
+}
+
+h1{
+  color: azure;
+}
+
+h2{
+  color: violet;
+}
+.modo__sexy{
+  height: 2000px;
+  position: absolute;
+  display: none;
+  width: 100%;
+  background-color: red;
+  z-index: 10;
+}
+
+#btn_si{
+  background-color: forestgreen;
+  border-color: cadetblue;
+  color: azure;
+  font-size: xx-large;
+  padding: 1rem;
+  text-align: center;
+  border-radius: 10px;
+
+}
